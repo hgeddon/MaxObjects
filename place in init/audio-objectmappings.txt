@@ -1,0 +1,4 @@
+max objectfile mc.limi~ mc.wrapper~ limi~ mc;
+max objectfile mcs.limi~ mcs.limi~ limi~ mcs;
+max objectfile mc.limisnap~ mc.wrapper~ limisnap~ mc;
+max objectfile mcs.limisnap~ mcs.limisnap~ limisnap~ mcs;
